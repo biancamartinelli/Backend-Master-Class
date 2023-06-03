@@ -1,6 +1,6 @@
 ## Backend Master Class [Golang + Postgres + Kubernetes + gRPC]
 
-## Exercícios que fiz durante o curso de: "Go Bootcamp Master Golang".
+## Exercícios que fiz durante o curso de: "Backend Master Class".
 
 ![Backend Master Class](https://github.com/biancamartinelli/Backend-Master-Class/assets/107266212/7bdf7c5d-b529-4adb-9b63-5b20c778f203)
 
